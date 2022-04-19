@@ -1,3 +1,3 @@
 # 🌻 Welcome to my GitHub page! 🌻
 
-![alt text](ReeceDaviesGithub.png "Picture of grass and flowers")
+![alt text](Reece_Github_Picture.png "Picture of grass and flowers")
